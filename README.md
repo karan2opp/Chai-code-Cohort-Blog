@@ -59,4 +59,8 @@ Cohort-blog
 <a href="https://karan2op.hashnode.dev/element-selectors-in-css" target="_blank">
   Element Selectors in CSS
 </a>
+<br>
+<a href="https://excalidraw.com/#json=H9FcfGrK8kmOCh2SBOKDr,iDs61VUrs44fO_PtS6npfg">
+Excalidraw link
+</a>
 

@@ -60,7 +60,7 @@ Cohort-blog
   Element Selectors in CSS
 </a>
 <br>
-<a href="https://excalidraw.com/#json=rTaTGS6Q3jr250q3znz3q,ihjexcREwxu36J153yIMVw">
+<a href="https://excalidraw.com/#json=zFBaJcJcE8mrZ-CIh5Zi5,fy2Qa0Q5cCnBXz8fvOXt_Q">
 Excalidraw link
 </a>
 
